@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os, time, random
 from functools import partial
 class YouDied(Exception):
